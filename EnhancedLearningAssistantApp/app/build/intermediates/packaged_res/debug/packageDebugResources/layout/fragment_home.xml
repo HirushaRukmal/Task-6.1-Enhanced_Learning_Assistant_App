@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:padding="24dp" android:background="#37B8FF" android:layout_width="match_parent" android:layout_height="match_parent">
+<TextView android:id="@+id/textGreeting" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Hello,&#10;Your Name" android:textSize="32sp" android:textStyle="bold" />
+<androidx.cardview.widget.CardView android:id="@+id/cardTask" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp">
+<LinearLayout android:orientation="vertical" android:padding="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+<TextView android:id="@+id/textTaskTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Generated Task 1" android:textSize="20sp" android:textStyle="bold" />
+<TextView android:id="@+id/textTaskDescription" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Small description for the generated task" android:layout_marginTop="8dp" />
+</LinearLayout>
+</androidx.cardview.widget.CardView>
+</LinearLayout>

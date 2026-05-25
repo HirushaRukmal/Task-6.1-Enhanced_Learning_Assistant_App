@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/loginFragment">
+
+    <fragment android:id="@+id/loginFragment" android:name="com.example.enhancedlearningassistantapp.ui.LoginFragment" android:label="Login">
+        <action android:id="@+id/action_loginFragment_to_signupFragment" app:destination="@id/signupFragment" />
+        <action android:id="@+id/action_loginFragment_to_homeFragment" app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment android:id="@+id/signupFragment" android:name="com.example.enhancedlearningassistantapp.ui.SignupFragment" android:label="Signup">
+        <action android:id="@+id/action_signupFragment_to_interestsFragment" app:destination="@id/interestsFragment" />
+    </fragment>
+    <fragment android:id="@+id/interestsFragment" android:name="com.example.enhancedlearningassistantapp.ui.InterestsFragment" android:label="Interests">
+        <action android:id="@+id/action_interestsFragment_to_homeFragment" app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment android:id="@+id/homeFragment" android:name="com.example.enhancedlearningassistantapp.ui.HomeFragment" android:label="Home">
+        <action android:id="@+id/action_homeFragment_to_taskFragment" app:destination="@id/taskFragment" />
+    </fragment>
+    <fragment android:id="@+id/taskFragment" android:name="com.example.enhancedlearningassistantapp.ui.TaskFragment" android:label="Task">
+        <action android:id="@+id/action_taskFragment_to_resultFragment" app:destination="@id/resultFragment" />
+    </fragment>
+    <fragment android:id="@+id/resultFragment" android:name="com.example.enhancedlearningassistantapp.ui.ResultFragment" android:label="Result">
+        <action android:id="@+id/action_resultFragment_to_homeFragment" app:destination="@id/homeFragment" />
+    </fragment>
+</navigation>

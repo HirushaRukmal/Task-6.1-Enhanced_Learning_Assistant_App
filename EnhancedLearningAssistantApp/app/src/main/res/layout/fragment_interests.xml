@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:padding="24dp" android:background="#37B8FF" android:layout_width="match_parent" android:layout_height="match_parent">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Your&#10;Interests" android:textSize="32sp" android:textStyle="bold" />
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="You may select up to 3 Topics" android:layout_marginTop="8dp" android:layout_marginBottom="16dp" />
+<com.google.android.material.chip.Chip android:id="@+id/chip1" style="@style/Widget.Material3.Chip.Assist" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+<com.google.android.material.chip.Chip android:id="@+id/chip2" style="@style/Widget.Material3.Chip.Assist" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" />
+<com.google.android.material.chip.Chip android:id="@+id/chip3" style="@style/Widget.Material3.Chip.Assist" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" />
+<com.google.android.material.chip.Chip android:id="@+id/chip4" style="@style/Widget.Material3.Chip.Assist" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" />
+<com.google.android.material.chip.Chip android:id="@+id/chip5" style="@style/Widget.Material3.Chip.Assist" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" />
+<com.google.android.material.chip.Chip android:id="@+id/chip6" style="@style/Widget.Material3.Chip.Assist" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" />
+<Button android:id="@+id/buttonNext" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Next" android:layout_marginTop="20dp" />
+</LinearLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/fragment_task.xml",
+        "source": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-main-51:/layout/fragment_task.xml"
+    },
+    {
+        "merged": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/fragment_login.xml",
+        "source": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-main-51:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/fragment_result.xml",
+        "source": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-main-51:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/item_question.xml",
+        "source": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-main-51:/layout/item_question.xml"
+    },
+    {
+        "merged": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/fragment_interests.xml",
+        "source": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-main-51:/layout/fragment_interests.xml"
+    },
+    {
+        "merged": "com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/fragment_result.xml",
+        "source": "com.example.enhancedlearningassistantapp-main-51:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/fragment_signup.xml",
+        "source": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-main-51:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "/Users/hirusharukmal/.gradle/daemon/9.0.0/com.example.enhancedlearningassistantapp-main-51:/layout/activity_main.xml"
+    }
+]

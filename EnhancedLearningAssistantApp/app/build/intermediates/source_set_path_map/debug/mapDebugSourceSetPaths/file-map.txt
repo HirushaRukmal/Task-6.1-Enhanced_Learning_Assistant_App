@@ -1,0 +1,52 @@
+com.example.enhancedlearningassistantapp-jetified-annotation-experimental-1.4.0-0 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/014ec1436d5daa39c88ec72079dc627c/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.enhancedlearningassistantapp-jetified-lifecycle-process-2.8.3-1 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/06e995a6b56546285d05059c1706efa1/transformed/jetified-lifecycle-process-2.8.3/res
+com.example.enhancedlearningassistantapp-navigation-fragment-2.7.7-2 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/0980e4f6451fe8efa5771ac3ddc4cfe4/transformed/navigation-fragment-2.7.7/res
+com.example.enhancedlearningassistantapp-jetified-activity-ktx-1.8.1-3 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/0a17eb58b8efd801c4ff688552313539/transformed/jetified-activity-ktx-1.8.1/res
+com.example.enhancedlearningassistantapp-navigation-ui-2.7.7-4 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/0d6fc775bbfddb5f219474045c3ff194/transformed/navigation-ui-2.7.7/res
+com.example.enhancedlearningassistantapp-jetified-savedstate-ktx-1.2.1-5 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/17554bbb2b69a8398bf64533083d6562/transformed/jetified-savedstate-ktx-1.2.1/res
+com.example.enhancedlearningassistantapp-recyclerview-1.3.2-6 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/1b3487766576da68154dfb145c06fbef/transformed/recyclerview-1.3.2/res
+com.example.enhancedlearningassistantapp-lifecycle-livedata-2.8.3-7 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/21b3ee46c5ca47a3d6dd82e15575a522/transformed/lifecycle-livedata-2.8.3/res
+com.example.enhancedlearningassistantapp-navigation-common-ktx-2.7.7-8 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/2afe2506feca7a81c9257320aea4e00a/transformed/navigation-common-ktx-2.7.7/res
+com.example.enhancedlearningassistantapp-jetified-lifecycle-viewmodel-savedstate-2.8.3-9 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/369eb7a1616a594987fec155aa1771b4/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.3/res
+com.example.enhancedlearningassistantapp-navigation-ui-ktx-2.7.7-10 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/38c575b3364d092d71c0e78075427e85/transformed/navigation-ui-ktx-2.7.7/res
+com.example.enhancedlearningassistantapp-navigation-common-2.7.7-11 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/3e9c43de568d95215fb5f1ea6765c138/transformed/navigation-common-2.7.7/res
+com.example.enhancedlearningassistantapp-navigation-runtime-ktx-2.7.7-12 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/4bbfb2abd81ab7e379d3953854776365/transformed/navigation-runtime-ktx-2.7.7/res
+com.example.enhancedlearningassistantapp-drawerlayout-1.1.1-13 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/52f72a8e6c0c1adcd350136611760a47/transformed/drawerlayout-1.1.1/res
+com.example.enhancedlearningassistantapp-jetified-lifecycle-viewmodel-ktx-2.8.3-14 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/57bf94e2eafb97f1f0ac13ce236e9d28/transformed/jetified-lifecycle-viewmodel-ktx-2.8.3/res
+com.example.enhancedlearningassistantapp-lifecycle-livedata-core-2.8.3-15 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/5ec6cf8e3aefb3b8a1ac73d9ff99c464/transformed/lifecycle-livedata-core-2.8.3/res
+com.example.enhancedlearningassistantapp-jetified-appcompat-resources-1.7.0-16 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/6688ba269643fbcecf05dc3065c93f28/transformed/jetified-appcompat-resources-1.7.0/res
+com.example.enhancedlearningassistantapp-navigation-fragment-ktx-2.7.7-17 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/67a10337a80eade02cbde17ef4295dee/transformed/navigation-fragment-ktx-2.7.7/res
+com.example.enhancedlearningassistantapp-jetified-customview-poolingcontainer-1.0.0-18 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/6a93f7b49d7cee7b85f92280af111ae0/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.example.enhancedlearningassistantapp-jetified-emoji2-views-helper-1.3.0-19 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/6ad290e26ac6173fafd24e8baf1ebc61/transformed/jetified-emoji2-views-helper-1.3.0/res
+com.example.enhancedlearningassistantapp-transition-1.5.0-20 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/78a0d18003451ede101fad0853bd548e/transformed/transition-1.5.0/res
+com.example.enhancedlearningassistantapp-jetified-viewpager2-1.1.0-beta02-21 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/797bd9c086a4302389dfaaff49dc62f4/transformed/jetified-viewpager2-1.1.0-beta02/res
+com.example.enhancedlearningassistantapp-jetified-lifecycle-livedata-core-ktx-2.8.3-22 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/7a0de9af09dadb51ede8f55a69557ba0/transformed/jetified-lifecycle-livedata-core-ktx-2.8.3/res
+com.example.enhancedlearningassistantapp-jetified-window-1.0.0-23 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/7be588c4ea3d6d0ea4a2716c1db42999/transformed/jetified-window-1.0.0/res
+com.example.enhancedlearningassistantapp-jetified-core-ktx-1.13.1-24 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/85a5686a5f6a9c34af439c3e4c9ae3d0/transformed/jetified-core-ktx-1.13.1/res
+com.example.enhancedlearningassistantapp-jetified-profileinstaller-1.3.1-25 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/86a0977c0c60b36a42c863d6732caf37/transformed/jetified-profileinstaller-1.3.1/res
+com.example.enhancedlearningassistantapp-jetified-savedstate-1.2.1-26 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/86beefcbc7db5d2cf2ad3043f4cde648/transformed/jetified-savedstate-1.2.1/res
+com.example.enhancedlearningassistantapp-jetified-emoji2-1.3.0-27 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/87afa287a69b8e30f45dac6604ec8426/transformed/jetified-emoji2-1.3.0/res
+com.example.enhancedlearningassistantapp-coordinatorlayout-1.1.0-28 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/8a0955f2ffcc7d01923854c187f563d4/transformed/coordinatorlayout-1.1.0/res
+com.example.enhancedlearningassistantapp-jetified-startup-runtime-1.1.1-29 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/93b81364c1e389695efa511cd6f56d5b/transformed/jetified-startup-runtime-1.1.1/res
+com.example.enhancedlearningassistantapp-appcompat-1.7.0-30 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/94cbde1ae6b561107f8720e09424ad57/transformed/appcompat-1.7.0/res
+com.example.enhancedlearningassistantapp-material-1.12.0-31 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/94df6f662ec1033ed54b845ea9ff4547/transformed/material-1.12.0/res
+com.example.enhancedlearningassistantapp-jetified-lifecycle-viewmodel-release-32 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/a7cfec7eed0387075466d96dcb4729ff/transformed/jetified-lifecycle-viewmodel-release/res
+com.example.enhancedlearningassistantapp-jetified-activity-1.8.1-33 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/b762e122641a5cb53804c8baca5d89b2/transformed/jetified-activity-1.8.1/res
+com.example.enhancedlearningassistantapp-fragment-1.8.2-34 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/bb659a68dbf33d8be9b680ab856f87b3/transformed/fragment-1.8.2/res
+com.example.enhancedlearningassistantapp-navigation-runtime-2.7.7-35 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/bf26e28792c2d5e595103026c5c30355/transformed/navigation-runtime-2.7.7/res
+com.example.enhancedlearningassistantapp-jetified-lifecycle-runtime-ktx-release-36 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/bfe8b137e1b7622e9d7a7f7f9c1ed277/transformed/jetified-lifecycle-runtime-ktx-release/res
+com.example.enhancedlearningassistantapp-constraintlayout-2.1.4-37 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/c1b0556be8331ac62b6d411dfaca2f7a/transformed/constraintlayout-2.1.4/res
+com.example.enhancedlearningassistantapp-slidingpanelayout-1.2.0-38 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/c310bfb00ec187227ad38589fdc750f2/transformed/slidingpanelayout-1.2.0/res
+com.example.enhancedlearningassistantapp-core-1.13.1-39 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/c59d6d896a0e7337e25ffc1e34e5d166/transformed/core-1.13.1/res
+com.example.enhancedlearningassistantapp-jetified-fragment-ktx-1.8.2-40 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/cb1733503f8d72c1c366029a671afbb5/transformed/jetified-fragment-ktx-1.8.2/res
+com.example.enhancedlearningassistantapp-jetified-lifecycle-runtime-release-41 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/ccc71e4694e3363f8de84444a3c4dece/transformed/jetified-lifecycle-runtime-release/res
+com.example.enhancedlearningassistantapp-cardview-1.0.0-42 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/dd534ce78824346432feec68116d87a4/transformed/cardview-1.0.0/res
+com.example.enhancedlearningassistantapp-core-runtime-2.2.0-43 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/dfeeb270887e2c8ee896c039afd4c83a/transformed/core-runtime-2.2.0/res
+com.example.enhancedlearningassistantapp-jetified-lifecycle-livedata-ktx-2.8.3-44 /Users/hirusharukmal/.gradle/caches/9.0.0/transforms/fb086721d6545184ca60356c4646ad24/transformed/jetified-lifecycle-livedata-ktx-2.8.3/res
+com.example.enhancedlearningassistantapp-pngs-45 /Users/hirusharukmal/AndroidStudioProjects/Task 6.1/EnhancedLearningAssistantApp/app/build/generated/res/pngs/debug
+com.example.enhancedlearningassistantapp-resValues-46 /Users/hirusharukmal/AndroidStudioProjects/Task 6.1/EnhancedLearningAssistantApp/app/build/generated/res/resValues/debug
+com.example.enhancedlearningassistantapp-packageDebugResources-47 /Users/hirusharukmal/AndroidStudioProjects/Task 6.1/EnhancedLearningAssistantApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.enhancedlearningassistantapp-packageDebugResources-48 /Users/hirusharukmal/AndroidStudioProjects/Task 6.1/EnhancedLearningAssistantApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.enhancedlearningassistantapp-debug-49 /Users/hirusharukmal/AndroidStudioProjects/Task 6.1/EnhancedLearningAssistantApp/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.enhancedlearningassistantapp-debug-50 /Users/hirusharukmal/AndroidStudioProjects/Task 6.1/EnhancedLearningAssistantApp/app/src/debug/res
+com.example.enhancedlearningassistantapp-main-51 /Users/hirusharukmal/AndroidStudioProjects/Task 6.1/EnhancedLearningAssistantApp/app/src/main/res
